@@ -1,37 +1,49 @@
 [{
-  "id":1,
+  "Id":1,
+   "SellRent":1,
    "Name":"Irfan House",
    "Type":"House",
-   "Rent":"15000"
+   "Price":"15000",
+   "Image":"prop-1"
 },
 {
-   "id":2,
+   "Id":2,
+   "SellRent":2,
    "Name":"Eros House",
     "Type":"House",
-    "Rent":"13000"
+    "Price":"13000",
+    "Image":"prop-2"
 },
 {
-"id":3,
+"Id":3,
+"SellRent":2,
 "Name":"Poet House",
 "Type":"House",
-"Rent":"55000"
+"Price":"55000",
+"Image":"prop-3"
 },
 {
-"id":4,
+"Id":4,
+"SellRent":1,
 "Name":"kango House",
 "Type":"House",
-"Rent":"55000"
+"Price":"55000",
+"Image":"prop-4"
 },
 {
-"id":5,
+"Id":5,
+"SellRent":1,
 "Name":"Turkey House",
 "Type":"House",
-"Rent":"55000"
+"Price":"55000",
+"Image":"prop-5"
 },
 {
-"id":6,
+"Id":6,
+"SellRent":1,
 "Name":"Sarena House",
 "Type":"House",
-"Rent":"6000"
+"Price":"6000",
+"Image":""
 }
 ]
